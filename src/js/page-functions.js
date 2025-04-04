@@ -33,6 +33,7 @@ const SYMBOL_EMPTY = "<span class='padding-left'></span>"; // No symbol
 const FLEUR_DIVIDE = "<div class='horizontal-line'></div>";
 const WIKI_LINK = "https://hollowknight.wiki/w/";
 
+
 const ROOT = document.documentElement;
 const SCROLL_BUTTON = document.querySelector(".scroll-up-button");
 
